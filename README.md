@@ -31,12 +31,6 @@ Meu objetivo é atuar como Desenvolvedora Front-End Júnior e, posteriormente, c
 - Studio Aura
 - E-commerce Syntaxwear
 
-## Estatísticas do GitHub
-
-![Estatísticas da Roxane](https://github-readme-stats.vercel.app/api?username=Roxanerx&show_icons=true&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxanerx&layout=compact&theme=tokyonight)
-
 ## Contato
 
 <a href="https://www.linkedin.com/in/roxane-s-varela-oliveira-750221383" target="_blank">
