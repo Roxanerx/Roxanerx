@@ -1,4 +1,4 @@
-# Olá, eu sou a Roxane 👋
+# Olá, sou a Roxane 👋
 
 Empreendedora em transição de carreira para Desenvolvimento Front-End.
 
@@ -33,12 +33,9 @@ Meu objetivo é atuar como Desenvolvedora Front-End Júnior e, posteriormente, c
 
 ## Estatísticas do GitHub
 
-<div>
-  <a href="https://github.com/Roxanerx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roxanerx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxanerx&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+![Estatísticas da Roxane](https://github-readme-stats.vercel.app/api?username=Roxanerx&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxanerx&layout=compact&theme=tokyonight)
 
 ## Contato
 
